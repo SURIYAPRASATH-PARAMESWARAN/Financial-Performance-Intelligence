@@ -19,13 +19,13 @@ This project transforms raw financial statement data into a three-page interacti
 ## Screenshots
 
 ### Page 1 — Financial Performance Overview
-![Page 1](screenshots/page1.png)
+![Page 1](page1.PNG)
 
 ### Page 2 — Company Deep Dive
-![Page 2](screenshots/page2.png)
+![Page 2](page2.PNG)
 
 ### Page 3 — Financial Ratios Analysis
-![Page 3](screenshots/page3.png)
+![Page 3](page3.PNG)
 
 ---
 
